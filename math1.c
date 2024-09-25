@@ -47,3 +47,5 @@ char* minSumSeq(int n) {    // kx = n - (k * (k - 1)) / 2  # n: sum, k: count, x
     return NULL;
 }
 
+void main() {
+}
